@@ -1,0 +1,8 @@
+Compiler used gcc on Fedora Linux
+
+# To compile the code:
+gcc filename.c -o filename
+
+# To run the compiled code:
+./filename
+On Windows just run with filename
