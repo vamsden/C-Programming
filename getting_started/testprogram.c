@@ -1,4 +1,4 @@
-# include <stdio.h>
+# include <stdio.h> // Library to read and write to the terminal
 
 int main()
 {
